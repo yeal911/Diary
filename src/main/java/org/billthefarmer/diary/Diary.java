@@ -121,7 +121,7 @@ public class Diary extends Activity
     public final static String TAG = DIARY;
 
     public final static String YEAR = "year";
-    public final static String MONTH = "month";
+    public final static String MONTH = "month"; 
     public final static String DAY = "day";
 
     public final static String SAVED = "saved";
